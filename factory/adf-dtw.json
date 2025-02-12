@@ -1,0 +1,9 @@
+{
+	"name": "adf-dtw",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07dbc336-2791-44cf-8802-6a37fb1935fe",
+		"tenantId": "6b630fee-f489-428f-808d-c57b032c981a"
+	}
+}
